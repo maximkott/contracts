@@ -1,6 +1,6 @@
 <?php
 
-namespace Weew\Foundation\Interfaces;
+namespace Weew\Contracts;
 
 interface IArrayable {
     /**
