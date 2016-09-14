@@ -6,5 +6,5 @@ interface IUnArrayable {
     /**
      * @param array $array
      */
-    function fromArray(array $array);
+    static function fromArray(array $array);
 }

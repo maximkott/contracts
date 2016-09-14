@@ -6,5 +6,5 @@ interface IUnJsonable {
     /**
      * @param $json
      */
-    function fromJson($json);
+    static function fromJson($json);
 }

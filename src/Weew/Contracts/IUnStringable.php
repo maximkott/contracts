@@ -6,5 +6,5 @@ interface IUnStringable {
     /**
      * @param $string
      */
-    function fromString($string);
+    static function fromString($string);
 }
